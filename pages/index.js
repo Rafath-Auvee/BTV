@@ -9,7 +9,7 @@ export default function Home() {
         <title>BTV </title>
         <link rel="shortcut icon" href="television.png" type="image/x-icon" />
       </Head>
-
+      
       <Headers />
     </div>
   );
